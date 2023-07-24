@@ -11,5 +11,5 @@ Jedis = "b89ccfe0-2c5f-46f6-b89b-da3e1c2e286f"
 Serialization = "9e88b42a-f829-5b0c-bbe9-9e923198166b"
 
 [compat]
-GenieCache = "2"
+GenieCache = "2, 1"
 julia = "1"
